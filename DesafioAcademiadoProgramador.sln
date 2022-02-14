@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDiamantesDeX", "DesafioDiamantesDeX\DesafioDiamantesDeX.csproj", "{A8634F94-7C0A-4E48-9943-77C09D703DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8634F94-7C0A-4E48-9943-77C09D703DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8634F94-7C0A-4E48-9943-77C09D703DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8634F94-7C0A-4E48-9943-77C09D703DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8634F94-7C0A-4E48-9943-77C09D703DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80EC1A3F-F3BA-4BCE-B6C3-8489B6572B3A}
+	EndGlobalSection
+EndGlobal
